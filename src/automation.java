@@ -13,7 +13,6 @@ import java.net.URL;
 public class automation {
 
     public static void main(String args[]) throws MalformedURLException {
-        //https://www.youtube.com/watch?v=i1tQ1pjEFWw:
 
         //Ten komputer -> D:\......\Automation_Testing_Traveleo\src
         //Utwórz folder "lib"
